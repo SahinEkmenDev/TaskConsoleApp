@@ -1,0 +1,10 @@
+C:\Users\sahin\source\repos\TaskConsoleApp2\TaskThreadRunApp\bin\Debug\TaskThreadRunApp.exe.config
+C:\Users\sahin\source\repos\TaskConsoleApp2\TaskThreadRunApp\bin\Debug\TaskThreadRunApp.exe
+C:\Users\sahin\source\repos\TaskConsoleApp2\TaskThreadRunApp\bin\Debug\TaskThreadRunApp.pdb
+C:\Users\sahin\source\repos\TaskConsoleApp2\TaskThreadRunApp\obj\Debug\TaskThreadRunApp.csproj.AssemblyReference.cache
+C:\Users\sahin\source\repos\TaskConsoleApp2\TaskThreadRunApp\obj\Debug\TaskThreadRunApp.Form1.resources
+C:\Users\sahin\source\repos\TaskConsoleApp2\TaskThreadRunApp\obj\Debug\TaskThreadRunApp.Properties.Resources.resources
+C:\Users\sahin\source\repos\TaskConsoleApp2\TaskThreadRunApp\obj\Debug\TaskThreadRunApp.csproj.GenerateResource.cache
+C:\Users\sahin\source\repos\TaskConsoleApp2\TaskThreadRunApp\obj\Debug\TaskThreadRunApp.csproj.CoreCompileInputs.cache
+C:\Users\sahin\source\repos\TaskConsoleApp2\TaskThreadRunApp\obj\Debug\TaskThreadRunApp.exe
+C:\Users\sahin\source\repos\TaskConsoleApp2\TaskThreadRunApp\obj\Debug\TaskThreadRunApp.pdb

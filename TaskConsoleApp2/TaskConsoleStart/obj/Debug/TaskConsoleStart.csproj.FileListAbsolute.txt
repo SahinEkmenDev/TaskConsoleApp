@@ -1,0 +1,2 @@
+C:\Users\sahin\source\repos\TaskConsoleApp2\TaskConsoleStart\obj\Debug\TaskConsoleStart.csproj.AssemblyReference.cache
+C:\Users\sahin\source\repos\TaskConsoleApp2\TaskConsoleStart\obj\Debug\TaskConsoleStart.csproj.CoreCompileInputs.cache

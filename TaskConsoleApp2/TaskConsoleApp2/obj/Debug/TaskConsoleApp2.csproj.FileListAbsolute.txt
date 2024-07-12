@@ -1,0 +1,7 @@
+C:\Users\sahin\source\repos\TaskConsoleApp2\TaskConsoleApp2\bin\Debug\TaskConsoleApp2.exe.config
+C:\Users\sahin\source\repos\TaskConsoleApp2\TaskConsoleApp2\bin\Debug\TaskConsoleApp2.exe
+C:\Users\sahin\source\repos\TaskConsoleApp2\TaskConsoleApp2\bin\Debug\TaskConsoleApp2.pdb
+C:\Users\sahin\source\repos\TaskConsoleApp2\TaskConsoleApp2\obj\Debug\TaskConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\sahin\source\repos\TaskConsoleApp2\TaskConsoleApp2\obj\Debug\TaskConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\sahin\source\repos\TaskConsoleApp2\TaskConsoleApp2\obj\Debug\TaskConsoleApp2.exe
+C:\Users\sahin\source\repos\TaskConsoleApp2\TaskConsoleApp2\obj\Debug\TaskConsoleApp2.pdb
